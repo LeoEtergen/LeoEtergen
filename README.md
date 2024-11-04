@@ -14,7 +14,7 @@
 🎓 Graduated with a Technical Degree in Systems Development (Etec Fernando Prestes)  
 💻 Working on automations, web page creation, and software testing  
 📃 JAVA, PHP, JAVASCRIPT, PYTHON, SQL, HTML, CSS  
-📫 Contact: leohgn10@gmail.com or
+📫 Contact: leohgn10@gmail.com
 
 ## Technologies
 
